@@ -1,4 +1,3 @@
-ì
 package appbiblioteca;
 
 /**
